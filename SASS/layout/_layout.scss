@@ -1,0 +1,16 @@
+body {
+	width: 90vw;
+	height: 100vh;
+	margin: 0 auto;
+	background-color: #ddd;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+div {
+	height: 80vh;
+	margin: 2vw;
+	background-color: #fff;
+	box-shadow: 0 0 3px #222;
+}
